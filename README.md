@@ -3,6 +3,5 @@ Demo project of the [IoT sensor data Phoenix LiveView dashboard](https://github.
 
 ## Credits
 
-Julien Bastin @bastinjul
-
-Guillaume Neirinckx @guiste10
+- Julien Bastin [@bastinjul](https://github.com/bastinjul)
+- Guillaume Neirinckx [@guiste10](https://github.com/guiste10)
